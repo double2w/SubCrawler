@@ -180,7 +180,6 @@ $*@159.75.50.77
 103.44.61.71
 103.66.218.221
 103.83.156.89
-103.85.20.74
 103.93.56.151
 103.94.27.101
 103.94.27.115
@@ -238,7 +237,6 @@ $*@159.75.50.77
 104.245.96.158
 104.245.96.219
 104.245.96.238
-104.245.96.81
 104.245.96.88
 104.248.148.147
 104.27.188.1
@@ -263,11 +261,10 @@ $*@159.75.50.77
 107.181.177.181
 107.181.184.117
 107.wgong.xyz
-109.166.37.246:8080
+109.166.37.246
 109.169.15.106
 109.169.72.60
-109.238.14.148:800
-109.238.14.148:801
+109.238.14.148
 109.wgong.xyz
 111.32.136.1
 111.32.136.100
@@ -425,8 +422,7 @@ $*@159.75.50.77
 132.226.169.93
 132.wgong.xyz
 133.wowogg.cyou
-134.122.189.149:10004
-134.122.189.149:10005
+134.122.189.149
 134.209.155.247
 135.125.253.238
 135.125.253.250
@@ -525,7 +521,6 @@ $*@159.75.50.77
 139.162.194.233
 139.162.236.137
 139.162.81.159
-139.162.82.254
 139.177.197.51
 139.180.169.69
 139.180.185.88
@@ -645,7 +640,6 @@ $*@159.75.50.77
 149.248.16.94
 149.248.62.82
 149.28.186.71
-149.28.222.193
 15.152.1.170
 15.152.36.152
 15.152.48.124
@@ -665,7 +659,6 @@ $*@159.75.50.77
 151.236.30.184
 152.67.225.114
 152.67.254.98
-152.69.196.142
 152.70.102.66
 152.70.93.216
 152.89.160.115
@@ -884,7 +877,6 @@ $*@159.75.50.77
 178.239.173.41
 178.239.173.47
 178.239.173.51
-178.255.44.69
 178.62.201.120
 18.139.85.222
 18.141.240.114
@@ -963,10 +955,6 @@ $*@159.75.50.77
 183.236.55.216
 183.236.55.231
 183.236.55.249
-183.236.57.18
-183.236.57.24
-183.236.57.52
-183.236.57.53
 183.236.97.178
 183.236.97.185
 183.236.97.99
@@ -1088,7 +1076,6 @@ $*@159.75.50.77
 185.128.27.35
 185.128.27.37
 185.134.22.115
-185.134.22.232
 185.134.22.251
 185.134.22.80
 185.134.23.40
@@ -1180,7 +1167,6 @@ $*@159.75.50.77
 185.166.84.87
 185.166.84.89
 185.166.84.91
-185.167.116.52
 185.174.159.131
 185.174.159.133
 185.174.159.136
@@ -1326,7 +1312,6 @@ $*@159.75.50.77
 188.214.125.106
 188.214.152.194
 188.241.120.16
-188.92.78.140
 188.92.78.148
 188.92.78.203
 188.92.78.208
@@ -1472,7 +1457,6 @@ $*@159.75.50.77
 193.29.107.221
 193.29.107.227
 193.29.107.229
-193.29.107.237
 193.29.107.91
 193.29.107.99
 193.32.210.230
@@ -1508,7 +1492,6 @@ $*@159.75.50.77
 194.33.40.112
 194.33.40.114
 194.36.111.102
-194.36.178.185
 194.37.96.211
 194.37.96.213
 194.37.96.229
@@ -1607,8 +1590,6 @@ $*@159.75.50.77
 196.244.191.181
 196.244.191.195
 196.244.191.197
-196.244.191.35
-196.244.191.37
 196.244.191.45
 196.244.191.91
 196.244.191.93
@@ -1678,7 +1659,6 @@ $*@159.75.50.77
 2.58.241.163
 2.58.241.27
 2.58.241.29
-2.58.241.3
 2.58.241.43
 2.58.241.44
 2.58.241.45
@@ -2106,7 +2086,6 @@ $*@159.75.50.77
 37.120.144.211
 37.120.144.243
 37.120.144.245
-37.120.145.19
 37.120.148.213
 37.120.148.227
 37.120.148.229
@@ -2184,7 +2163,7 @@ $*@159.75.50.77
 37.120.235.93
 37.120.236.139
 37.120.236.155
-37.157.254.12:800
+37.157.254.12
 37.19.195.80
 37.19.195.81
 37.19.199.196
@@ -2298,7 +2277,6 @@ $*@159.75.50.77
 45.125.247.91
 45.125.247.93
 45.128.153.30
-45.129.3.127
 45.129.32.10
 45.129.32.13
 45.129.32.15
@@ -2505,7 +2483,6 @@ $*@159.75.50.77
 50.21.176.135
 51.116.183.141
 51.15.119.36
-51.159.6.221
 51.178.133.154
 51.195.1.105
 51.195.217.22
@@ -2634,7 +2611,6 @@ $*@159.75.50.77
 54.93.234.87
 54.93.236.239
 54.95.177.20
-54.95.81.196
 58.152.85.116
 58.177.131.223
 58.211.137.100
@@ -2820,7 +2796,6 @@ $*@159.75.50.77
 84.17.34.26
 84.17.34.44
 84.17.34.46
-84.17.34.8
 84.17.35.103
 84.17.35.108
 84.17.35.118
@@ -3201,7 +3176,6 @@ $*@159.75.50.77
 99.83.254.176
 99.wgong.xyz
 CN.01.MIFJUN.TOP
-JP1.SUDULIU.COM
 L1-aws-hk-06.baipiao.de
 L1-aws-hk-08.baipiao.de
 L1-aws-kr-03.baipiao.de
@@ -3317,7 +3291,6 @@ azure-f4s-hk-1.forwardserver.xyz
 azure-f4s-hk.transfer-xray.tk
 b.rw3r.xyz
 b.yigeweizhuang.com
-b4.ssrsub.one
 ban4.feiclouddd.me
 bgp.cnsuhu.com
 bgp.pengui.top
@@ -3552,7 +3525,6 @@ hk.linn.ink
 hk.transit.gogocloud.work
 hk01-n4.xiaoxiaofeng.xyz
 hk01.kelecloud.xyz
-hk01.uuv2.co.uk
 hk01.uuv2.uk
 hk01.xyttk.vip
 hk02-n5.xiaoxiaofeng.xyz
@@ -3574,10 +3546,8 @@ hk12.spaceseven.xyz
 hk16.as9929.com
 hk2.direct.starlink.st
 hk2.free80ml.tk
-hk2.uuv2.co.uk
 hk2100.azzico.space
 hk2101.azzico.space
-hk3.uuv2.co.uk
 hk3.xyttk.vip
 hk4.xyttk.vip
 hk5.speedsvip.co
@@ -3651,7 +3621,6 @@ jp1.uuv2.co.uk
 jp116.v2moe.tk
 jp2-relay.kejibearnode.cf
 jp2.noic.ml
-jp2.uuv2.co.uk
 jp2.xn--ccktg7ag.tw
 jp2.xyttk.vip
 jp3.bingbinghouse.com
@@ -3670,7 +3639,6 @@ jpc5271.azzico.space
 jpjs6o.zhs.company
 jpn2.n-b.wiki
 jpy01.quickairport.top
-jpzn.sttcloud.xyz
 jru.misaka.rest
 jxcn2.xhbao.me
 jy.nkeo.top
@@ -3696,7 +3664,6 @@ kr1.jjhost.net
 kr1.np.qjnodeip.xyz
 kr1.uuv2.co.uk
 kr2.np.qjnodeip.xyz
-kr4.uuv2.co.uk
 kraws1.biteb.club
 kraws1.biteb.xyz
 kror1.liyun.edu.pl
@@ -3753,7 +3720,6 @@ os1-1.sstr-api.xyz
 os1-2.sstr-api.xyz
 os1-5.sstr-api.xyz
 os2-5.sstr-api.xyz
-osk15.speedsvip.co
 osk17.speedsvip.co
 p2.22332e.com
 p3.22332e.com
@@ -3888,7 +3854,6 @@ sp1.szhkg.xlddns.xyz
 spde1.node.duoduo.fit
 sphk2.node.duoduo.fit
 sqj.lyzghim.com
-ss-03.ssrsub.one
 ss-04.ssrsub.one
 ss-08.ssrsub.one
 ss.au.sshmax.net
@@ -3903,10 +3868,8 @@ ss.sg.sshmax.net
 ss.uk.sshmax.net
 ss.us.sshmax.net
 ss1.ssrsub.com
-ss1.ssrsub.one
 ss10.ssrsub.com
 ss11.ssrsub.one
-ss12.ssrsub.one
 ss2.ssrsub.com
 ss2.ssrsub.one
 ss3.ssrsub.com
@@ -3931,7 +3894,6 @@ superaga.smdynet.com
 superstar.hk.04.free.srayx.xyz
 superstar.jp1.srayx.xyz
 superstar.srayx.xyz
-sv2.free3333.xyz
 sw.oracleusa.ml
 sy-gg-02.ddns-only.xyz
 sy-xl106.ddns-only.xyz
@@ -3954,9 +3916,7 @@ t5.ssrsub.one
 t6.ssrsub.com
 t6.ssrsub.one
 t7.ssrsub.com
-t7.ssrsub.one
 t8.ssrsub.com
-t9.ssrsub.one
 tacotasty.tk
 taowai1.xiaobaiyun.me
 temp5.in.zeroteam.top
@@ -4065,7 +4025,6 @@ v1.jp01.cocorouter.com
 v1.kr01.cocorouter.com
 v1.kr02.cocorouter.com
 v1.ssrsub.com
-v1.ssrsub.one
 v10.ssrsub.com
 v11.ssrsub.com
 v11.ssrsub.xyz
@@ -4074,12 +4033,8 @@ v2-01.ssrsub.one
 v2-02.ssrsub.one
 v2-03.ssrsub.one
 v2-04.ssrsub.one
-v2-05.ssrsub.one
-v2-06.ssrsub.one
-v2-07.ssrsub.one
 v2-08.ssrsub.one
 v2-09.ssrsub.one
-v2-12.ssrsub.one
 v2-13.ssrsub.one
 v2-15.ssrsub.one
 v2-16.ssrsub.one
@@ -4097,10 +4052,8 @@ v2raylpc.herokuapp.com
 v2us01.isxa.top
 v2us02.isxa.top
 v3.coding996.com
-v3.ssrsub.one
 v3.ssrsub.xyz
 v4.ssrsub.com
-v4.ssrsub.one
 v5.ssrsub.com
 v5.ssrsub.one
 v5.ssrsub.xyz
@@ -4108,9 +4061,7 @@ v6.ssrsub.com
 v6.ssrsub.one
 v6.ssrsub.xyz
 v7.ssrsub.com
-v7.ssrsub.one
 v8.ssrsub.com
-v8.ssrsub.one
 v8.ssrsub.xyz
 v9.ssrsub.xyz
 vincent-jackson.cf
