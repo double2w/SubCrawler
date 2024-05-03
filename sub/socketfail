@@ -312,7 +312,6 @@ $*@159.75.50.77
 13.75.111.138
 13.75.111.176
 13.75.55.48
-13.75.90.56
 13.75.94.248
 13.76.247.91
 13.76.91.116
@@ -770,7 +769,6 @@ $*@159.75.50.77
 18.163.119.25
 18.163.121.72
 18.163.180.255
-18.163.183.1
 18.163.186.175
 18.163.61.169
 18.166.152.161
@@ -1063,7 +1061,6 @@ $*@159.75.50.77
 185.198.189.93:800
 185.2.100.166
 185.2.100.168
-185.200.191.27
 185.210.217.107
 185.210.217.109
 185.212.111.41
@@ -1376,7 +1373,6 @@ $*@159.75.50.77
 194.41.112.37
 194.41.112.5
 194.41.112.9
-194.87.70.252
 195.12.48.215
 195.140.215.100
 195.154.28.252:800
@@ -1544,7 +1540,6 @@ $*@159.75.50.77
 202.81.235.76
 202.81.235.79
 202.81.235.80
-202.81.235.81
 203.137.160.157
 203.137.166.160
 203.186.25.20
@@ -1632,7 +1627,6 @@ $*@159.75.50.77
 212.102.40.78
 212.102.40.81
 212.102.40.83
-212.102.42.194
 212.102.42.196
 212.102.42.199
 212.102.42.201
@@ -1700,7 +1694,6 @@ $*@159.75.50.77
 212.103.49.147
 212.103.49.149
 212.103.49.151
-212.199.61.55
 212.237.210.158
 213.174.130.129
 213.174.158.181
@@ -2149,7 +2142,6 @@ $*@159.75.50.77
 45.43.19.76
 45.43.19.82
 45.43.19.92
-45.56.92.165
 45.62.228.191
 45.62.231.50
 45.62.233.34
@@ -2238,13 +2230,11 @@ $*@159.75.50.77
 5.157.13.91
 5.157.13.93
 5.157.13.99
-5.183.179.138
 5.187.49.147
 5.187.49.148
 5.187.49.149
 5.187.49.187
 5.187.49.189
-5.187.53.51
 5.187.53.53
 5.187.53.55
 5.188.213.21
@@ -2347,7 +2337,6 @@ $*@159.75.50.77
 54.153.136.105
 54.168.200.100
 54.169.101.136
-54.169.169.130
 54.169.218.39
 54.169.4.97
 54.177.24.1
@@ -2378,7 +2367,6 @@ $*@159.75.50.77
 54.251.230.216
 54.254.167.44
 54.254.197.0
-54.255.134.80
 54.255.209.238
 54.64.40.236
 54.65.52.79
@@ -2410,7 +2398,6 @@ $*@159.75.50.77
 62.216.80.11
 62.216.85.25
 62.216.86.170
-63.141.236.245
 63.141.248.179
 64.44.42.162
 64.44.42.164
@@ -2496,7 +2483,6 @@ $*@159.75.50.77
 77.247.126.153
 77.68.83.145
 7704d818-78e5-471a-a1d6-655c4d79f662.1c5f5adf-a6ce-4066-b318-fa7eb97f68c8.xn--9kq764g2xn.com
-78.141.202.100
 78.47.219.86
 79.110.53.203
 79.110.53.205
@@ -2513,7 +2499,6 @@ $*@159.75.50.77
 79.143.191.141
 8.210.50.44
 8.210.62.222
-81.19.208.102
 81.19.208.107
 81.19.208.109
 81.19.208.66
@@ -2524,7 +2509,6 @@ $*@159.75.50.77
 81.19.209.113
 81.19.209.16
 81.19.209.20
-81.19.214.32
 81.19.223.189
 81.90.188.137
 81.92.205.123
@@ -2557,7 +2541,6 @@ $*@159.75.50.77
 82.wgong.xyz
 84.17.34.24
 84.17.34.25
-84.17.34.26
 84.17.34.44
 84.17.34.46
 84.17.35.103
@@ -2631,8 +2614,6 @@ $*@159.75.50.77
 85.10.56.192
 85.10.56.225
 85.10.56.227
-85.208.110.178
-85.208.110.2
 86.105.25.162
 86.106.136.117
 86.106.136.125
@@ -2897,7 +2878,7 @@ $*@159.75.50.77
 95.174.66.35
 95.214.55.118
 95.214.55.119
-95.57.207.204:33992
+95.57.207.204
 95.57.207.206
 95.85.66.38
 95.85.66.40
@@ -2938,9 +2919,6 @@ a67d816fd661470e8.awsglobalaccelerator.com
 a73750147ca66fd23.awsglobalaccelerator.com
 a83679f.cw.cloudflare.systems
 a83679f.ds.cloudflare.systems
-a83679f.ga.gladns.com
-a83679f.gb.gladns.com
-a83679f.gd.gladns.com
 a83679f.ha.gladns.com
 a83679f.hb.gladns.com
 a83679f.hc.gladns.com
@@ -2965,9 +2943,6 @@ a83679f.rc.gladns.com
 a83679f.rd.gladns.com
 a83679f.re.gladns.com
 a83679f.rf.gladns.com
-a83679f.t1.gladns.com
-a83679f.t2.gladns.com
-a83679f.t3.gladns.com
 a83679f.td.cloudflare.systems
 a83679f.th.cloudflare.systems
 a83679f.ts.cloudflare.systems
@@ -2992,12 +2967,8 @@ agahk.q88q.ml
 agajpchensir.ednovas.me
 agals02.subyyds.xyz
 ahcu.cnsuhu.com
-ahk.misaka.rest
 ahyd1.domain.hxray.me
-ajp.misaka.rest
 ajp1.yaoxinyang.xyz
-ajp2.misaka.rest
-ajp3.misaka.rest
 android.ufunr.me
 anycast.cn-c.eqi.me
 anycast.live-fi.eqi.me
@@ -3034,7 +3005,6 @@ bj.southpark.icu
 blx.lt.airnode.xyz
 bp01.spaceseven.xyz
 bp04.iganfan.xyz
-bv.misaka.rest
 by.rw3r.xyz
 c-jp-dv1.ooxc.cc
 c-jp1.ooxc.cc
@@ -3051,7 +3021,6 @@ ca.linn.ink
 canongood.ml
 catgz01.gnzz.xyz
 ccpisdevil.ml
-cct.misaka.rest
 cdn01.ssrsub.com
 cdn02.ssrsub.com
 cdn04.ssrsub.com
@@ -3128,7 +3097,6 @@ dmit-03.ddns-only.xyz
 doramo.ga
 dreet.dfiiopopiwsdadsda.tk
 dtda.dfiiopopiwsdadsda.ga
-du1.misaka.rest
 dukou.icu
 e.yigeweizhuang.com
 e2322f9.na.gladns.com
@@ -3226,7 +3194,6 @@ gz3.q88q.gq
 gzcm.bkcloud.ga
 gzcm02.iplc188.com
 gzgzcm.3sx.xyz
-gzm.misaka.rest
 gzyd-zz.tsutsu.top
 gzyd.iganfan.store
 gzyd.qiutan.pw
@@ -3313,7 +3280,6 @@ in05.ddns168.com
 in1-1.noojat.com
 in1-relay.kejibearnode.cf
 inap.qqnz.com.cn
-inp.misaka.rest
 ip148.ip-51-222-117.net
 iplc-zz.hxlm.cc
 iplc.qiutan.pw
@@ -3365,7 +3331,6 @@ jpc5271.azzico.space
 jpjs6o.zhs.company
 jpn2.n-b.wiki
 jpy01.quickairport.top
-jru.misaka.rest
 jxcn2.xhbao.me
 jy.nkeo.top
 kirklandgood.ml
@@ -3413,7 +3378,6 @@ lv.gfw.click
 m3.proxypools.top
 mail2my.herokuapp.com
 mc-a-01.joker007.top
-mh.misaka.rest
 mike.fuckwan73.ml
 milkgogo.ga
 milkgogo.tk
@@ -3540,7 +3504,6 @@ sdcm.666.boom.ovh
 se.free-v2ray.tk
 sg-2.okex-tradebot.xyz
 sg.linn.ink
-sg.misaka.rest
 sg.rapeamazon.ml
 sg.wocaonimabi666.xyz
 sg05.ronghuafugui.xyz
@@ -3754,8 +3717,6 @@ vtwonet-hk-a.qjnodeip.xyz
 vtwonet-tw-a.qjnodeip.xyz
 vtwonet-tw-b.qjnodeip.xyz
 weneedfreedom.ml
-wl1.misaka.rest
-wl3.misaka.rest
 wookong.tech
 wr.naigai.one
 wtt.comefromchinatown.com
